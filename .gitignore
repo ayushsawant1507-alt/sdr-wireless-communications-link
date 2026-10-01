@@ -1,0 +1,16 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.bak
+
+# Simulink cache and code generation
+slprj/
+*.slxc
+
+# Temporary data files
+*.tmp
+
+# Operating system files
+Thumbs.db
+.DS_Store
+Desktop.ini
